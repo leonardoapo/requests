@@ -37,6 +37,8 @@ Requests officially supports Python 2.7 & 3.5+.
 
 ## Supported Features & Best–Practices
 
+
+
 Requests is ready for the demands of building robust and reliable HTTP–speaking applications, for the needs of today.
 
 - Keep-Alive & Connection Pooling
